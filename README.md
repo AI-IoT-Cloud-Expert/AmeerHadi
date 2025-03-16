@@ -11,16 +11,7 @@
 - **Cloud Integration**: AWS Certified Educator with practical implementation of IoT cloud services
 - **Additional Languages**: Proficient in C/C++ for embedded systems and JavaScript for web interfaces
 
-### Featured IoT Projects:
-- **[Smart Agriculture Monitoring System](link)**: Complete Python-based IoT solution using Raspberry Pi with multiple sensors, real-time data collection, and cloud dashboard
-- **[IoT Data Collection API](link)**: Scalable Python microservice for handling data from distributed Raspberry Pi devices
-- **[Linux Driver Development](link)**: Custom Linux drivers for specialized IoT sensors on Raspberry Pi
-- **[Remote Device Management](link)**: Python-based application for managing fleet of IoT devices
 
-### Industry Implementations:
-- Developed end-to-end monitoring system deployed in agricultural settings
-- Created IoT security framework implementing encryption and secure communication
-- Built custom Python libraries for simplified sensor integration on Raspberry Pi
 
 ### Contact:
 - Email: ameer@itnet.uobabylon.edu.iq
